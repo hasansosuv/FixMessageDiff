@@ -1,0 +1,26 @@
+{
+  "name": "fixmessagedifference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasansosuv/FixMessageDifference.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasansosuv/FixMessageDifference/issues"
+  },
+  "homepage": "https://github.com/hasansosuv/FixMessageDifference#readme",
+  "dependencies": {
+    "fixparser": "^5.8.4",
+    "json-diff": "^1.0.6",
+    "nodemailer": "^6.9.5",
+    "readline-sync": "^1.4.10"
+  }
+}

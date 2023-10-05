@@ -1,0 +1,5 @@
+{
+    "sender" : "abc@sosuvconsulting.com",
+    "passwd" : "1234",
+    "receivers" : ["abc@gmail.com","rec2.gmailcom"]
+}
